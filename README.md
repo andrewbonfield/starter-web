@@ -18,3 +18,6 @@ Purpose of this
 How to deploy
 
 ## How To Contribute
+
+### Copyright
+More copyright text

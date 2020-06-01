@@ -19,5 +19,7 @@ How to deploy
 
 ## How To Contribute
 
+Fork and issue pull request
+
 ### Copyright
 More copyright text

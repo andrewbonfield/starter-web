@@ -22,4 +22,4 @@ How to deploy
 Fork and issue pull request
 
 ### Copyright
-More copyright text
+More copyright text. All rights reserved. 
